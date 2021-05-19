@@ -48,11 +48,3 @@ O: return "000099UR001337"
 
 
 
-echo "# crypto-format" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jumpingtheshark/crypto-format.git
-git push -u origin main
-'''
